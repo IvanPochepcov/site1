@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background: rgb(0, 238, 255);
+    font-size: 16px;
+    text-align: center;
+}
+p{color: rgb(121, 0, 6);
+text-align: left;}
+
+ footer{
+    border: 2px solid #000000;
+    font-size: 20px;
+}
+
+footer {
+text-align: center ;
+color: rgb(65, 93, 255);
+}
+ h1{
+text-align: center ;
+color: #5900ff}
+
+h2{
+text-align: center ;
+color: #ae00ff
